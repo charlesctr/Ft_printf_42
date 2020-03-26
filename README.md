@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-<h1>What is Ft_print ?</h1>
+<h1>What is Ft_printf ?</h1>
 
 <p>
 
